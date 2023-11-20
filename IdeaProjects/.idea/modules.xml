@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FengZhuang/FengZhuang.iml" filepath="$PROJECT_DIR$/FengZhuang/FengZhuang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HouseRentSystem/HouseRentSystem.iml" filepath="$PROJECT_DIR$/HouseRentSystem/HouseRentSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Study_Java/Study_Java.iml" filepath="$PROJECT_DIR$/Study_Java/Study_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/This/This.iml" filepath="$PROJECT_DIR$/This/This.iml" />
+      <module fileurl="file://$PROJECT_DIR$/breakPoint/breakPoint.iml" filepath="$PROJECT_DIR$/breakPoint/breakPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duotai/duotai.iml" filepath="$PROJECT_DIR$/duotai/duotai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jicheng/jicheng.iml" filepath="$PROJECT_DIR$/jicheng/jicheng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lingqiantong/lingqiantong.iml" filepath="$PROJECT_DIR$/lingqiantong/lingqiantong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myPackage/myPackage.iml" filepath="$PROJECT_DIR$/myPackage/myPackage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+    </modules>
+  </component>
+</project>
